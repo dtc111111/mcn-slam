@@ -186,14 +186,7 @@ We employ a slightly different evaluation strategy to measure the quality of the
 ## Reference
 Bibtex
 ```
-@inproceedings{deng2025mne,
-title={MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots},
-author={Deng, Tianchen and Shen, Guole and Xun, Chen and Yuan, Shenghai and Jin, Tongxin and Shen, Hongming and Wang, Yanbo and Wang, Jingchuan and Wang, Hesheng and Wang, Danwei and others},
-booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-pages={1485--1494},
-address={Nashville, USA},
-year={2025}
-}
+
 ```
 
 ## Acknowledgement
