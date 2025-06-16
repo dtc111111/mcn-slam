@@ -2,7 +2,7 @@
 <h1 align="center">
 MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation
     
-[DES Dataset Page](https://ins-dataset.github.io/ins/) | [Paper]()
+[DES Dataset Page](https://dtc111111.github.io/DES.github.io/) | [Paper]()
 
 </h1>
 <br>
@@ -159,6 +159,11 @@ Download the data as below and the data is saved into the `./Datasets/DES` folde
   </a>
 </p>
 
+<p align="center">
+  <a href="">
+    <img src="Fig/dataset2.png" alt="Logo" width="100%">
+  </a>
+</p>
 ### Reproduction of CP-SLAM
 This is the unofficial implementation of [CP-SLAM](https://github.com/dtc111111/cp-slam-modified): Collaborative Neural Point-based SLAM System. The original CP-SLAM code contained certain issues that hindered its proper functionality. We have addressed and resolved these issues to ensure correct operation. Additionally, we provided further details on the execution steps and added code for the evaluation section.
 ## Run
