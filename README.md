@@ -2,7 +2,7 @@
 <h1 align="center">
 MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation
     
-[DES Dataset Page](https://dtc111111.github.io/DES.github.io/) | [Paper]()
+[DES Dataset Page](https://dtc111111.github.io/DES-dataset/) | [Paper]()
 
 </h1>
 <br>
