@@ -45,11 +45,12 @@ MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scen
 </details>
 
 # Notes
-
-- [x] We have updated the `README.md` and are preparing to open-source our code！
 - [x] Installation setup
-- [x] Code for main parts, including `Hybrid Scene Representation`, 'Camera Tracking'
 - [x] Dataset release (Indoor & Outdoor).
+- [x] We have updated the `README.md` and are preparing to open-source our code！
+- [ ] Code for main parts, including `Hybrid Scene Representation`, 'Camera Tracking'
+- [ ] Full Relsease
+
  
 
 # Installation
