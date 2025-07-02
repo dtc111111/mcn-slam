@@ -65,30 +65,19 @@ git clone https://github.com/dtc111111/MCNSLAM.git
 cd MCN-SLAM
 ```
 ## Install the environment
-You can create an anaconda environment called `mcnslam`. For linux, you need to install **libopenexr-dev** before creating the environment.
-Install all the dependencies via pip (Note here pytorch3d and tinycudann requires ~10min to build)
-### Install the pytorch first (Please check the cuda version)
-```bash
-pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1 -f https://download.pytorch.org/whl/cu113/torch_stable.html
-```
+You can create an anaconda environment called `mneslam`. For linux, you need to install **libopenexr-dev** before creating the environment.
+Install all the dependencies via conda (Note here pytorch3d and tinycudann requires ~10min to build)
 ```bash
 sudo apt-get install libopenexr-dev
 conda env create -f environment.yaml
-conda activate mcnslam
+conda activate mneslam
+
 ```
-### Build extension (DROID-SLAM)
+### Build extension (Lietorch/marching cubes from neuralRGBD/driod)
 ```bash
 python setup.py install
 ```
 
-
-### Build extension (marching cubes from neuralRGBD)
-
-
-```bash
-cd external/NumpyMarchingCubes
-python setup.py install
-```
 For tinycudann, if you cannot access network when you use GPUs, you can also try build from source as below:
 
 ```bash
