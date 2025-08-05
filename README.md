@@ -154,6 +154,7 @@ Download the data as below and the data is saved into the `./Datasets/DES` folde
     <img src="Fig/dataset2.png" alt="Logo" width="100%">
   </a>
 </p>
+
 ### Reproduction of CP-SLAM
 This is the unofficial implementation of [CP-SLAM](https://github.com/dtc111111/cp-slam-modified): Collaborative Neural Point-based SLAM System. The original CP-SLAM code contained certain issues that hindered its proper functionality. We have addressed and resolved these issues to ensure correct operation. Additionally, we provided further details on the execution steps and added code for the evaluation section.
 ## Run
